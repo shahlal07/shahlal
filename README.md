@@ -38,6 +38,10 @@ An automation project exploring workflow-based orchestration for faceless YouTub
 
 Currently working on an AI-powered calculator project. The repository is private while development is underway.
 
+### How I Build & Learn
+
+I use AI tools such as **ChatGPT and Claude** as development assistants for coding guidance, debugging, understanding unfamiliar concepts, and exploring technical solutions. I treat AI-assisted development as a way to learn faster while continuously strengthening my independent programming and problem-solving skills.
+
 ### Other Project
 
 **School OS — School Management Platform**
