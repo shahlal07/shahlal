@@ -2,25 +2,43 @@
 
 **Information Security Student | Full-Stack Developer | Backend & Application Security**
 
-I'm a third-semester Information Security student at **NUST**, interested in building secure, scalable web applications and backend systems.
+I'm a third-semester Information Security student at **NUST**, interested in building secure, scalable web applications, backend systems, and practical automation tools.
 
 I enjoy working across the stack — from frontend interfaces to database architecture, authentication, authorization, and application security.
 
-### What I work with
+### Technical Skills
 
 - **Languages:** TypeScript, JavaScript, SQL
 - **Frontend:** React, Next.js, Tailwind CSS
 - **Backend & Database:** Supabase, PostgreSQL
 - **Security:** Authentication, RBAC, Row-Level Security, server-side authorization
-- **Tools:** Git, GitHub, Vercel, Vitest
+- **Tools:** Git, GitHub, Vercel, Vitest, n8n
 
 ### Featured Projects
 
-**Nashemann — Multi-Vendor Commerce SaaS**
+**1. Nashemann — Multi-Vendor Commerce SaaS**
 
-Working across customer storefronts, vendor dashboards, and platform administration. Project features include secure checkout workflows, inventory concurrency protection, vendor data isolation, and order management.
+A multi-vendor commerce platform with customer storefronts, vendor dashboards, and platform administration. Work includes secure checkout workflows, inventory concurrency protection, vendor data isolation, and order management.
 
-Repositories: [Web](https://github.com/shahlal07/nashemann-web) · [Admin](https://github.com/shahlal07/nashemann-admin) · [Vendor Storefronts](https://github.com/shahlal07/vendor-storefronts) · [Vendor Admins](https://github.com/shahlal07/vendor-admins)
+Repositories: [Customer Web](https://github.com/shahlal07/nashemann-web) · [Platform Admin](https://github.com/shahlal07/nashemann-admin) · [Vendor Storefronts](https://github.com/shahlal07/vendor-storefronts) · [Vendor Admins](https://github.com/shahlal07/vendor-admins)
+
+**2. The AamGhar — Online Storefront**
+
+An online storefront and vendor experience built within the Nashemann commerce ecosystem.
+
+Repositories: [Vendor Storefronts](https://github.com/shahlal07/vendor-storefronts) · [Vendor Admins](https://github.com/shahlal07/vendor-admins)
+
+**3. Faceless YouTube Automation — n8n**
+
+An automation project exploring workflow-based orchestration for faceless YouTube content production.
+
+[View Repository](https://github.com/shahlal07/faceless-youtube-n8n)
+
+**4. AI Calculator — In Progress**
+
+Currently working on an AI-powered calculator project. The repository is private while development is underway.
+
+### Other Project
 
 **School OS — School Management Platform**
 
@@ -33,7 +51,8 @@ A role-based school management platform with reporting, notifications, authentic
 - Backend Engineering
 - Application Security
 - Database Security
-- Secure Web Application Development
+- AI-powered Applications
+- Workflow Automation
 
 ### Connect
 
